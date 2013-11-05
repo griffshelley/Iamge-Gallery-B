@@ -18,7 +18,7 @@ font-size: 2em;
 }
 
 .gallery li:nth-child(2) a {
-font-weight: bold;
+font-weight: bold; 
 text-transform:capitalize;
 text-shadow: 2px 2px 0px red;	
 font-size: 2em;
